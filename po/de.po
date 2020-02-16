@@ -13865,3 +13865,6 @@ msgstr "Power LED Status im Deep-Standby"
 
 msgid "Power LED state during deep-standby"
 msgstr "Power LED Status während des Deep-Standbys einstellen"
+
+msgid "Show in Standby"
+msgstr "Im Standby anzeigen"
